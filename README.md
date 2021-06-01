@@ -28,3 +28,8 @@ run in android studio.
 
 01. Make payment APIs.
 02. Google maps API integration.
+
+# Authors
+
+Nirmalya Saha
+https://github.com/Nirmalya-Saha96
