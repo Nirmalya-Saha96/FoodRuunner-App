@@ -1,10 +1,10 @@
-#FoodRunner App
+# FoodRunner App
 
 food ordering app
 make your first order with this with a list of 10
 restaurants and their menu chart.
 
-#Tech Stack
+# Tech Stack
 
 
 01. Volley API call to fetch 10 resturants and their menu chart.
@@ -16,3 +16,12 @@ restaurants and their menu chart.
 07. Firebase and firestone
 08. Kotlin and XML.
 
+# Contributers
+
+clone this repo or download the zip file
+run in android studio.
+
+# Things to added
+
+01. Make payment APIs.
+02. Google maps API integration.
