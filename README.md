@@ -7,12 +7,12 @@ restaurants and their menu chart.
 #Tech Stack
 
 
->Volley API call to fetch 10 resturants and their menu chart.
->Glide Library, Intents(Explicite and Implicite).
->Json and Gson parsing.
->SQLite database to store favourite resturants and the order summary.
->Coroutines, Room Library.
->Live data, View model.
->Firebase and firestone
->Kotlin and XML.
+01. Volley API call to fetch 10 resturants and their menu chart.
+02 .Glide Library, Intents(Explicite and Implicite).
+03. Json and Gson parsing.
+04. SQLite database to store favourite resturants and the order summary.
+05. Coroutines, Room Library.
+06. Live data, View model.
+07. Firebase and firestone
+08. Kotlin and XML.
 
