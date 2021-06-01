@@ -16,6 +16,9 @@ restaurants and their menu chart.
 07. Firebase and firestone
 08. Kotlin and XML.
 
+# Demo
+https://www.linkedin.com/posts/nirmalya-saha-625993201_androiddevelopment-android-app-activity-6771681627237081088--evJ
+
 # Contributers
 
 clone this repo or download the zip file
